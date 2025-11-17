@@ -1,10 +1,9 @@
 {
   "ConversationStarters_DataBase": {
-    "CategoryName": {
+    "Casual": {
       "starters": [
         {
-         
-          "starter": "The conversation starter text"
+          "starter": "What are you most looking forward to this weekend?"
         }
       ]
     }
