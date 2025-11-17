@@ -1,0 +1,12 @@
+{
+  "ConversationStarters_DataBase": {
+    "CategoryName": {
+      "starters": [
+        {
+         
+          "starter": "The conversation starter text"
+        }
+      ]
+    }
+  }
+}
