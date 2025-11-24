@@ -1,14 +1,38 @@
 {
-  "ConversationStarters_DataBase": {
-    "General": {
-      "starters": [
-        {
-          "starter": "What are you most looking forward to this weekend?"
-        },
-        {
-          "starter": "What are you most looking forward to this weekend2?"
-        }
-      ]
-    }
-  }
+"ConversationStarters_DataBase": {
+"General": {
+"starters": [
+{
+"starter": "What’s something you’ve been really into lately, like a hobby or show you can’t stop talking about? "​
+},
+{
+"starter": "If you could plan your ideal weekend from Friday night to Sunday evening, what would it look like? "​
+},
+{
+"starter": "What’s the most fun or memorable thing you’ve done so far this year? "​
+},
+{
+"starter": "If you could book a trip anywhere tomorrow, where would you go and what would you want to do there first? "​
+},
+{
+"starter": "What’s a small thing that can instantly make your day better, even if you’re stressed? "​
+},
+{
+"starter": "Is there a goal or project you’re working on right now that you’re excited about? "​
+},
+{
+"starter": "If you could have dinner with any celebrity or public figure, who would you pick and why? "​
+},
+{
+"starter": "What’s your favorite way to unwind after a long day when you just need to recharge? "​
+},
+{
+"starter": "What’s a place you’ve visited that really stuck with you, and what made it special? "​
+},
+{
+"starter": "What’s a fun fact or random thing about you that most people wouldn’t guess right away? "​
+}
+]
+}
+}
 }
