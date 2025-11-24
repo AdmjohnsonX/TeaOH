@@ -1,186 +1,1532 @@
 {
   "ConversationStarters_DataBase": {
-    "All Starters": {
+    "General": {
       "starters": [
         {
-          "starter": "If you could have dinner with anyone, dead or alive, who would it be?"
+          "starter": "If you could hit pause on life and spend a week anywhere, where would you go and what would you do first?"
         },
         {
-          "starter": "What's the most spontaneous thing you've ever done?"
+          "starter": "What’s something you’ve gotten really into lately that you wish you’d discovered sooner?"
         },
         {
-          "starter": "If you could instantly master any skill, what would it be?"
+          "starter": "When you picture a perfect Sunday, what are you doing from morning to night?"
         },
         {
-          "starter": "What's your guilty pleasure TV show?"
+          "starter": "If you could instantly master one hobby or skill, what would you pick and why?"
         },
         {
-          "starter": "Coffee or tea? And how do you take it?"
+          "starter": "What’s a small daily ritual you genuinely look forward to, no matter how busy life gets?"
         },
         {
-          "starter": "What's the best concert you've ever been to?"
+          "starter": "Is there a movie or show you feel is totally underrated that you’d recommend to everyone?"
         },
         {
-          "starter": "If you could travel anywhere tomorrow, where would you go?"
+          "starter": "What kind of trips do you enjoy more right now: chill beach days or getting lost in a new city?"
         },
         {
-          "starter": "What's your go-to karaoke song?"
+          "starter": "If you could have dinner with any fictional character, who would you choose and what would you ask them?"
         },
         {
-          "starter": "Are you a morning person or a night owl?"
+          "starter": "What’s the best compliment you’ve ever received that actually stuck with you?"
         },
         {
-          "starter": "What's the most adventurous thing on your bucket list?"
+          "starter": "What song never fails to put you in a good mood, no matter how your day is going?"
         },
         {
-          "starter": "What do you do for fun when you're not working?"
+          "starter": "If someone made a movie about your life, what genre would it be and what would they call it?"
         },
         {
-          "starter": "What's something you're passionate about?"
+          "starter": "What’s one thing you’re proud of doing this year, even if it seems small?"
         },
         {
-          "starter": "Do you have any hidden talents?"
+          "starter": "Are you more of a stay-in-with-takeout person or a dress-up-and-go-out person on weekends?"
         },
         {
-          "starter": "What's your favorite way to spend a Sunday?"
+          "starter": "What’s a childhood dream you had that still secretly appeals to you a little?"
         },
         {
-          "starter": "Are you close with your family?"
+          "starter": "If you could wake up tomorrow fluent in any language, which one would it be and why?"
         },
         {
-          "starter": "What's the best advice you've ever received?"
+          "starter": "What’s your ideal way to unwind after a long, stressful day?"
         },
         {
-          "starter": "Do you prefer the beach or the mountains?"
+          "starter": "Is there a book or podcast that genuinely changed how you see something in life?"
         },
         {
-          "starter": "What's your favorite season and why?"
+          "starter": "What kind of first date makes you feel most comfortable and actually excited to go?"
         },
         {
-          "starter": "What kind of music are you into?"
+          "starter": "If you could learn the answer to one big mystery in the world, which mystery would you pick?"
         },
         {
-          "starter": "What's something you've always wanted to learn?"
+          "starter": "What’s the best meal you’ve had recently, and what made it so good?"
         },
         {
-          "starter": "What's something you're proud of accomplishing?"
+          "starter": "Do you have a favorite holiday or time of year that always makes you feel good?"
         },
         {
-          "starter": "What does a perfect day look like for you?"
+          "starter": "What’s one place that’s on your travel list that you feel you HAVE to see in your lifetime?"
         },
         {
-          "starter": "What's the best decision you've ever made?"
+          "starter": "If your friends had to describe you in three words, what do you think they’d pick?"
         },
         {
-          "starter": "What motivates you to get up in the morning?"
+          "starter": "What’s something small that you really appreciate in a partner but most people overlook?"
         },
         {
-          "starter": "If you could change one thing about the world, what would it be?"
+          "starter": "Is there a habit or routine you’re trying to build this year? How’s it going so far?"
         },
         {
-          "starter": "What's the most important lesson life has taught you?"
+          "starter": "What’s your favorite way to move your body—gym, walks, sports, dancing, or something else?"
         },
         {
-          "starter": "Who has had the biggest impact on your life?"
+          "starter": "If you got a fully paid day off tomorrow with zero responsibilities, how would you spend it?"
         },
         {
-          "starter": "What's something you believe that most people disagree with?"
+          "starter": "What kind of conversations make you feel instantly connected with someone new?"
         },
         {
-          "starter": "What are you most grateful for right now?"
+          "starter": "Is there a movie you can quote almost by heart because you’ve watched it so many times?"
         },
         {
-          "starter": "What does success mean to you?"
+          "starter": "What’s one thing you think people often misunderstand about you at first?"
         },
         {
-          "starter": "Pineapple on pizza - yes or no?"
+          "starter": "If you could press replay on one year of your life, which year would you choose and why?"
         },
         {
-          "starter": "What's your favorite meme right now?"
+          "starter": "What’s the most interesting thing you’ve learned recently that stuck in your mind?"
         },
         {
-          "starter": "If you could have any superpower, what would it be?"
+          "starter": "Are you more into planning everything out, or do you prefer going with the flow most of the time?"
         },
         {
-          "starter": "Dogs or cats?"
+          "starter": "What kind of music do you usually put on when you’re driving or commuting somewhere?"
         },
         {
-          "starter": "What's the weirdest food combination you actually enjoy?"
+          "starter": "If you could instantly delete one annoying thing from modern dating, what would it be?"
         },
         {
-          "starter": "If you could be any fictional character, who would you be?"
+          "starter": "What’s something you’re curious to learn more about, even if you haven’t started yet?"
         },
         {
-          "starter": "What's your most unpopular opinion?"
+          "starter": "Is there a city you’ve visited that you secretly imagine yourself living in one day?"
         },
         {
-          "starter": "Would you rather fight 100 duck-sized horses or 1 horse-sized duck?"
+          "starter": "What’s your favorite way to celebrate your own wins, big or small?"
         },
         {
-          "starter": "What's the worst pickup line you've ever heard?"
+          "starter": "If you had to pick a theme song that plays when you walk into a room, what would it be?"
         },
         {
-          "starter": "If you could only eat one food for the rest of your life, what would it be?"
+          "starter": "What’s the best piece of advice someone has given you about relationships or life?"
         },
         {
-          "starter": "What's your idea of a perfect date?"
+          "starter": "Are you into morning dates like coffee walks, or are you strictly an evening date person?"
         },
         {
-          "starter": "Have you tried any new restaurants lately?"
+          "starter": "What’s a random skill you have that doesn’t really show up on a résumé but is still cool?"
         },
         {
-          "starter": "Are you into hiking or outdoor activities?"
+          "starter": "If you could design your perfect weekend getaway, where are we going and what’s the vibe?"
         },
         {
-          "starter": "Do you enjoy cooking or trying new recipes?"
+          "starter": "What’s one quality you really value in the people you keep close to you?"
         },
         {
-          "starter": "What's your favorite type of cuisine?"
+          "starter": "Is there a comfort show or movie you always put on when you just need to relax?"
         },
         {
-          "starter": "Do you prefer staying in or going out on weekends?"
+          "starter": "If you could time-travel to have a conversation with your younger self, what would you tell them?"
         },
         {
-          "starter": "Are you a wine person or more into craft beer?"
+          "starter": "What’s something you’ve done that seemed scary at first but ended up being so worth it?"
         },
         {
-          "starter": "Have you seen any good movies or shows recently?"
+          "starter": "Do you prefer long deep talks or playful banter when you’re getting to know someone?"
         },
         {
-          "starter": "Do you enjoy museums or art galleries?"
+          "starter": "What kind of text instantly makes your day better when it pops up on your phone?"
         },
         {
-          "starter": "What's the most fun date you've ever been on?"
+          "starter": "If you could pick one cuisine to eat for the next month, what would you choose?"
         },
         {
-          "starter": "What do you love most about your job?"
+          "starter": "What’s a small act of kindness someone did for you that you still remember?"
         },
         {
-          "starter": "What's your dream career if money wasn't an issue?"
+          "starter": "Are you more of a planner when it comes to travel, or do you prefer to just show up and explore?"
         },
         {
-          "starter": "Are you working on any exciting projects right now?"
+          "starter": "What’s a tradition, big or small, that you really enjoy with your friends or family?"
         },
         {
-          "starter": "What's the biggest goal you're working toward?"
+          "starter": "If you had to give a TED Talk with zero preparation, what topic would you choose?"
         },
         {
-          "starter": "How did you get into your field?"
+          "starter": "What’s something you’d love to do more often, but life gets in the way?"
         },
         {
-          "starter": "What's the best part about what you do?"
+          "starter": "Is there a podcast or YouTube channel you keep coming back to lately? What do you like about it?"
         },
         {
-          "starter": "Where do you see yourself in five years?"
+          "starter": "What’s one boundary you’ve gotten better at protecting for yourself over the years?"
         },
         {
-          "starter": "What's something you'd love to try professionally?"
+          "starter": "If you could pick any job for one month just for the experience, what would you try?"
         },
         {
-          "starter": "Do you have any side hustles or passion projects?"
+          "starter": "What’s your favorite way to stay active or clear your head when you’re stressed?"
         },
         {
-          "starter": "What would you do if you could take a year off?"
+          "starter": "Is there a quote or idea that you try to live by, even if you don’t follow it perfectly?"
+        },
+        {
+          "starter": "What’s a silly fear or irrational thing you know doesn’t make sense but still makes you hesitate?"
+        },
+        {
+          "starter": "If you could teleport right now to one place from your past, where would you go and who would you see?"
+        },
+        {
+          "starter": "What’s one experience you think everyone should have at least once in their life?"
+        },
+        {
+          "starter": "When you think about your ideal partner, what’s one non-negotiable trait for you?"
+        },
+        {
+          "starter": "What’s a small luxury you like to treat yourself to when you can?"
+        },
+        {
+          "starter": "Are you the type who makes detailed playlists, or do you just hit shuffle and see what happens?"
+        },
+        {
+          "starter": "What’s something new you tried recently that surprised you in a good way?"
+        },
+        {
+          "starter": "If money and time weren’t an issue, what kind of project or passion would you dive into?"
+        },
+        {
+          "starter": "Do you have a favorite café, bar, or spot where you feel instantly relaxed when you walk in?"
+        },
+        {
+          "starter": "What’s one thing you wish people asked you about more often?"
+        },
+        {
+          "starter": "If your life right now were a chapter title in a book, what would you name it?"
+        },
+        {
+          "starter": "What’s your go-to comfort food when you’ve had a long day?"
+        },
+        {
+          "starter": "Are you someone who likes planning far ahead in relationships, or do you prefer to see how things unfold?"
+        },
+        {
+          "starter": "What’s a simple moment recently that made you unexpectedly happy?"
+        },
+        {
+          "starter": "If you could switch lives with someone for a day just out of curiosity, who would you pick?"
+        },
+        {
+          "starter": "What’s your ideal balance between alone time and social time?"
+        },
+        {
+          "starter": "Is there a smell or song that instantly brings back a strong memory for you?"
+        },
+        {
+          "starter": "What’s something you admire in other people that you’re also trying to build in yourself?"
+        },
+        {
+          "starter": "If you could design a themed date night from start to finish, what’s the theme?"
+        },
+        {
+          "starter": "What’s your favorite way for someone to show they care about you?"
+        },
+        {
+          "starter": "Are you more drawn to deep life conversations or sharing funny stories from your week first?"
+        },
+        {
+          "starter": "What’s a risk you’re glad you took, even if it didn’t go perfectly?"
+        },
+        {
+          "starter": "If you had to pick a city that matches your personality, which one would it be and why?"
+        },
+        {
+          "starter": "What kind of memories do you want to make more of in the next year?"
+        },
+        {
+          "starter": "Is there a skill or hobby you’ve quietly been stalking on TikTok or Instagram, wanting to try yourself?"
+        },
+        {
+          "starter": "What’s your favorite way someone has surprised you, whether in dating or friendships?"
+        },
+        {
+          "starter": "When you think about your happiest moments, what’s a common thread you notice?"
+        },
+        {
+          "starter": "If you could plan a zero-pressure first meetup, what would we be doing so you feel relaxed?"
+        },
+        {
+          "starter": "What’s one thing you’d love a partner to understand about you without you having to explain it too much?"
+        },
+        {
+          "starter": "Do you enjoy trying completely new restaurants, or do you tend to stick to your tried-and-true favorites?"
+        },
+        {
+          "starter": "If you could fast-forward and peek at one part of your future, what would you be most curious about?"
+        },
+        {
+          "starter": "What’s something you genuinely value about where you live right now?"
+        },
+        {
+          "starter": "When it comes to texting, do you prefer lots of little messages or a few thoughtful ones?"
+        },
+        {
+          "starter": "Is there a life lesson you had to learn the hard way that really stuck?"
+        },
+        {
+          "starter": "If you could spend an afternoon learning from any expert, what topic would you pick?"
+        },
+        {
+          "starter": "What’s your favorite way to make ordinary days feel a bit special?"
+        },
+        {
+          "starter": "Are you more energized by meeting new people or by deepening connections with the ones you already know?"
+        },
+        {
+          "starter": "What kind of gestures feel romantic to you, even if they’re really simple?"
+        },
+        {
+          "starter": "If we were to plan a totally low-key, no-pressure first date, what kind of vibe would you want?"
+        },
+        {
+          "starter": "What’s a topic you could happily talk about for an hour without getting bored?"
+        },
+        {
+          "starter": "Is there a goal you’re working toward this year that you’re excited about?"
+        },
+        {
+          "starter": "When you look back on this year so far, what’s been a highlight for you?"
+        },
+        {
+          "starter": "If your friends had to pick a role for you in a heist movie, what would your job on the team be?"
+        },
+        {
+          "starter": "What’s one simple thing someone could do on a date that would instantly impress you?"
+        },
+        {
+          "starter": "Are you usually the one who suggests plans, or do you like when the other person takes the lead?"
+        },
+        {
+          "starter": "What’s a memory that always makes you smile when it pops into your head?"
+        },
+        {
+          "starter": "If you could choose any era to live in for a year
+        },
+
+        {
+          "starter": "What’s something you’ve accomplished that you don’t give yourself enough credit for? [web:36]"
+        },
+        {
+          "starter": "When you look back at this year, what’s one decision you’re really glad you made? [web:36]"
+        },
+        {
+          "starter": "What’s a tiny change in your routine that made your life noticeably better? [web:36]"
+        },
+        {
+          "starter": "If you could relive one trip you’ve taken, which one would you choose and why? [web:23]"
+        },
+        {
+          "starter": "What’s a hobby you had as a kid that you secretly miss now? [web:36]"
+        },
+        {
+          "starter": "When you need to boost your mood fast, what do you usually do? [web:8]"
+        },
+        {
+          "starter": "If you could have front-row tickets to any concert, which artist are we going to see? [web:35]"
+        },
+        {
+          "starter": "What kind of first messages on apps actually catch your attention in a good way? [web:6]"
+        },
+        {
+          "starter": "What’s a simple green flag you notice quickly when you’re getting to know a guy? [web:1]"
+        },
+        {
+          "starter": "If you could plan your birthday exactly how you want, what would the day look like? [web:31]"
+        },
+        {
+          "starter": "What’s something you’re grateful for this week that you maybe haven’t said out loud yet? [web:3]"
+        },
+        {
+          "starter": "Do you have a comfort movie or show you put on when you just need background vibes? [web:23]"
+        },
+        {
+          "starter": "What kind of compliments feel the most genuine and meaningful to you? [web:38]"
+        },
+        {
+          "starter": "If you could take a class on anything just for fun, what would you sign up for? [web:28]"
+        },
+        {
+          "starter": "What’s a small act of self-care that always makes you feel more like yourself? [web:3]"
+        },
+        {
+          "starter": "Are you more of a voice-note person or a texting person when you like someone? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing you did that made you think, “Wow, I’ve really grown”? [web:1]"
+        },
+        {
+          "starter": "If you could spend an afternoon with your future self, what would you want to ask her? [web:28]"
+        },
+        {
+          "starter": "What’s one quality in friends that you also really hope to find in a partner? [web:38]"
+        },
+        {
+          "starter": "Is there a daily or weekly ritual you’d love to start if you had a bit more time or energy? [web:3]"
+        },
+        {
+          "starter": "What’s your go-to drink order when you’re out—coffee, cocktails, or something else? [web:36]"
+        },
+        {
+          "starter": "If you could redo one day not to change the outcome but to enjoy it again, which day? [web:23]"
+        },
+        {
+          "starter": "What’s a random fact or piece of trivia you love pulling out in conversations? [web:36]"
+        },
+        {
+          "starter": "When you think of ‘home,’ what’s the first image or feeling that comes to mind? [web:4]"
+        },
+        {
+          "starter": "What’s something you’re really looking forward to in the next few months? [web:36]"
+        },
+        {
+          "starter": "Do you usually follow your head or your gut more when it comes to dating? [web:1]"
+        },
+        {
+          "starter": "If you could instantly get rid of one dating cliché forever, what would you ban? [web:40]"
+        },
+        {
+          "starter": "What’s your favorite kind of first date setting—coffee, drinks, walks, or an activity? [web:23]"
+        },
+        {
+          "starter": "Is there a fictional couple you low-key think has a great dynamic? [web:31]"
+        },
+        {
+          "starter": "What’s something small that instantly makes you feel cared for? [web:38]"
+        },
+        {
+          "starter": "If you had to describe your vibe in three words, what would they be? [web:15]"
+        },
+        {
+          "starter": "What’s the last thing that made you laugh way harder than you expected? [web:40]"
+        },
+        {
+          "starter": "Do you remember the first impression you had of your closest friend? What stood out? [web:33]"
+        },
+        {
+          "starter": "What’s a song you’d put on a ‘main character energy’ playlist for yourself? [web:31]"
+        },
+        {
+          "starter": "If you could wake up tomorrow with one mindset shift already locked in, what would it be? [web:1]"
+        },
+        {
+          "starter": "What’s something about your culture or family background that you really love? [web:36]"
+        },
+        {
+          "starter": "Are you more into surprise plans or do you like knowing exactly what’s coming? [web:3]"
+        },
+        {
+          "starter": "What’s a travel experience you’d love to share with someone you’re dating? [web:23]"
+        },
+        {
+          "starter": "What do you tend to notice first about someone you’re attracted to, besides looks? [web:38]"
+        },
+        {
+          "starter": "If you could design the perfect lazy day at home, what are we doing? [web:23]"
+        },
+        {
+          "starter": "What’s a belief or value you’ve changed your mind about over the years? [web:3]"
+        },
+        {
+          "starter": "When you think about your happiest relationships—friends, family, whoever—what do they all have in common? [web:38]"
+        },
+        {
+          "starter": "Is there a small ‘old-school’ habit you secretly find romantic, like handwritten notes or phone calls? [web:41]"
+        },
+        {
+          "starter": "What’s your favorite way to get out of a rut when every day starts feeling the same? [web:3]"
+        },
+        {
+          "starter": "If you had an extra hour every day just for yourself, how would you use it? [web:36]"
+        },
+        {
+          "starter": "What’s one thing you’re proud you no longer tolerate in dating? [web:1]"
+        },
+        {
+          "starter": "When you meet someone new, what makes you feel instantly more relaxed around them? [web:12]"
+        },
+        {
+          "starter": "Is there a place in your city that feels like your personal ‘main character’ spot? [web:35]"
+        },
+        {
+          "starter": "What’s a compliment you like giving to other people? [web:38]"
+        },
+        {
+          "starter": "If you could host a themed dinner party, what would the theme and dress code be? [web:31]"
+        },
+        {
+          "starter": "What’s a quality you’ve worked hard to build in yourself that you’re proud of? [web:1]"
+        },
+        {
+          "starter": "Do you have a favorite memory from a past relationship, even if it didn’t last? [web:38]"
+        },
+        {
+          "starter": "What’s something you’re currently learning about yourself in this season of your life? [web:3]"
+        },
+        {
+          "starter": "If you could choose any fictional world to spend a week in, where are we going? [web:35]"
+        },
+        {
+          "starter": "What does a ‘good day’ look like for you from start to finish? [web:28]"
+        },
+        {
+          "starter": "Is there a small routine you’d love to share with a future partner one day? [web:38]"
+        },
+        {
+          "starter": "What’s a way you like to show affection that people might not realize at first? [web:38]"
+        },
+        {
+          "starter": "If someone wanted to really impress you on a date without spending a lot, what should they do? [web:23]"
+        },
+        {
+          "starter": "What’s a chapter of your life that you’re really glad is over, and why? [web:3]"
+        },
+        {
+          "starter": "Are you more into planning detailed trips or showing up and seeing what happens? [web:36]"
+        },
+        {
+          "starter": "What’s a little tradition you’d love to start with someone you’re dating? [web:3]"
+        },
+        {
+          "starter": "When do you feel the most confident and in your element? [web:4]"
+        },
+        {
+          "starter": "If we were cooking together, what’s your go-to easy dish you’d want to make? [web:23]"
+        },
+        {
+          "starter": "What’s a random thing that instantly makes you feel nostalgic? [web:36]"
+        },
+        {
+          "starter": "Do you prefer deep talks late at night or long talks during a daytime walk? [web:31]"
+        },
+        {
+          "starter": "What’s something you’d tell your younger self about dating if you could? [web:1]"
+        },
+        {
+          "starter": "What kind of social settings do you actually enjoy—small groups, big parties, one-on-one? [web:36]"
+        },
+        {
+          "starter": "Is there a life skill you think everyone should learn, no matter what? [web:28]"
+        },
+        {
+          "starter": "What’s a boundary you’ve set that made your life noticeably better? [web:1]"
+        },
+        {
+          "starter": "If we were to plan a spontaneous day trip, where would you love to go first? [web:35]"
+        },
+        {
+          "starter": "What’s a simple pleasure you never get tired of—like fresh sheets or sunset walks? [web:31]"
+        },
+        {
+          "starter": "When you imagine a healthy relationship, what does the day-to-day actually feel like? [web:1]"
+        },
+        {
+          "starter": "What’s a risk you want to take in the next year that feels exciting and a little scary? [web:36]"
+        },
+        {
+          "starter": "If you could hit ‘mute’ on one type of dating behavior forever, what would you choose? [web:40]"
+        },
+        {
+          "starter": "What’s something you wish people knew about dating you? [web:1]"
+        },
+        {
+          "starter": "Do you keep photos or souvenirs from special moments, or do you prefer memories in your head? [web:36]"
+        },
+        {
+          "starter": "What’s your ideal way to end a great date—nightcap, walk, deep talk, or early goodnight? [web:23]"
+        },
+        {
+          "starter": "Is there a passion or cause that means a lot to you right now? [web:28]"
+        },
+        {
+          "starter": "What kind of flirting actually works on you—playful teasing, genuine questions, or thoughtful messages? [web:41]"
+        },
+        {
+          "starter": "If you could design a perfect Sunday morning with someone you like, what are we doing? [web:23]"
+        },
+        {
+          "starter": "What’s a song you’d put on a playlist called “falling for someone”? [web:31]"
+        },
+        {
+          "starter": "Is there a purchase you made that felt a bit extra but ended up being totally worth it? [web:36]"
+        },
+        {
+          "starter": "What do you think makes chemistry feel different from just being friendly? [web:1]"
+        },
+        {
+          "starter": "If you had to teach a mini-class on something you know well, what would you teach? [web:28]"
+        },
+        {
+          "starter": "What’s a small way you like to make the people around you feel special? [web:38]"
+        },
+        {
+          "starter": "Are you more energized by trying new things or perfecting the routines you already love? [web:36]"
+        },
+        {
+          "starter": "If you could script the first 10 minutes of a great first date, what would happen? [web:23]"
+        },
+        {
+          "starter": "What’s something you’re working on healing or softening in yourself these days? [web:3]"
+        },
+        {
+          "starter": "Do you have a favorite quote or line that always hits you at the right time? [web:28]"
+        },
+        {
+          "starter": "If you could bring back one trend from your childhood or teen years, what would it be? [web:36]"
+        },
+        {
+          "starter": "What’s a memory you hope you never forget, no matter how old you get? [web:30]"
+        },
+        {
+          "starter": "When it comes to long-term relationships, what feels more important to you: shared interests or shared values? [web:3]"
+        },
+        {
+          "starter": "If you could plan a “no phones allowed” date, what would we do so we don’t even miss them? [web:23]"
+        },
+        {
+          "starter": "What kind of messages or calls from someone you like make you feel most secure and wanted? [web:1]"
+        },
+        {
+          "starter": "What’s something you want the next person you date to really understand about your heart? [web:3]"
+        },
+
+{
+          "starter": "What’s something you’ve accomplished that you don’t give yourself enough credit for? [web:4]"
+        },
+        {
+          "starter": "When you look back at this year, what’s one decision you’re really glad you made? [web:48]"
+        },
+        {
+          "starter": "What’s a tiny change in your routine that actually made your life noticeably better? [web:48]"
+        },
+        {
+          "starter": "If you could relive one trip you’ve taken, which one would you choose and why? [web:23]"
+        },
+        {
+          "starter": "What’s a hobby you had as a kid that you secretly kind of miss now? [web:4]"
+        },
+        {
+          "starter": "When you need to boost your mood fast, what do you usually do? [web:48]"
+        },
+        {
+          "starter": "If you could have front-row tickets to any concert, which artist are we going to see? [web:31]"
+        },
+        {
+          "starter": "What kind of first messages on apps actually catch your attention in a good way? [web:8]"
+        },
+        {
+          "starter": "What’s a simple green flag you notice quickly when you’re getting to know a guy? [web:44]"
+        },
+        {
+          "starter": "If you could plan your birthday exactly how you want, what would the day look like? [web:48]"
+        },
+        {
+          "starter": "What’s something you’re grateful for this week that you haven’t really said out loud yet? [web:49]"
+        },
+        {
+          "starter": "Do you have a comfort show or movie you put on when you just need background vibes? [web:31]"
+        },
+        {
+          "starter": "What kind of compliments feel the most genuine and meaningful to you? [web:47]"
+        },
+        {
+          "starter": "If you could take a class on anything just for fun, what would you sign up for? [web:28]"
+        },
+        {
+          "starter": "What’s a small act of self-care that always makes you feel more like yourself? [web:50]"
+        },
+        {
+          "starter": "Are you more of a voice-note person or a texting person when you like someone? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing you did that made you think, “Wow, I’ve really grown”? [web:44]"
+        },
+        {
+          "starter": "If you could spend an afternoon with your future self, what would you want to ask her? [web:44]"
+        },
+        {
+          "starter": "What’s one quality in your friends that you also really hope to find in a partner? [web:47]"
+        },
+        {
+          "starter": "Is there a daily or weekly ritual you’d love to start if you had a bit more time or energy? [web:48]"
+        },
+        {
+          "starter": "What’s your go-to drink order when you’re out—coffee, cocktails, or something else? [web:31]"
+        },
+        {
+          "starter": "If you could redo one day just to enjoy it again, not change it, which day would you pick? [web:30]"
+        },
+        {
+          "starter": "What’s a random fact or piece of trivia you love pulling out in conversations? [web:50]"
+        },
+        {
+          "starter": "When you think of “home,” what’s the first image or feeling that comes to mind? [web:4]"
+        },
+        {
+          "starter": "What’s something you’re really looking forward to in the next few months? [web:23]"
+        },
+        {
+          "starter": "Do you usually follow your head or your gut more when it comes to dating? [web:44]"
+        },
+        {
+          "starter": "If you could instantly get rid of one annoying thing about modern dating, what would you choose? [web:12]"
+        },
+        {
+          "starter": "What’s your favorite kind of first date setting—coffee, drinks, walks, or an activity? [web:23]"
+        },
+        {
+          "starter": "Is there a fictional couple you low-key think actually has a great dynamic? [web:31]"
+        },
+        {
+          "starter": "What’s something small that instantly makes you feel cared for? [web:47]"
+        },
+        {
+          "starter": "If you had to describe your vibe in three words, what would they be? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing that made you laugh way harder than you expected? [web:46]"
+        },
+        {
+          "starter": "Do you remember the first impression you had of your closest friend and what stood out? [web:33]"
+        },
+        {
+          "starter": "What’s a song you’d definitely put on a “main character energy” playlist for yourself? [web:31]"
+        },
+        {
+          "starter": "If you could wake up tomorrow with one mindset shift already locked in, what would it be? [web:44]"
+        },
+        {
+          "starter": "What’s something about your culture or family background that you really love? [web:47]"
+        },
+        {
+          "starter": "Are you more into surprise plans or do you like knowing exactly what’s coming? [web:48]"
+        },
+        {
+          "starter": "What’s a travel experience you’d love to share with someone you’re dating? [web:23]"
+        },
+        {
+          "starter": "What do you tend to notice first about someone you’re attracted to, besides looks? [web:44]"
+        },
+        {
+          "starter": "If you could design the perfect lazy day at home with someone, what are you doing? [web:50]"
+        },
+        {
+          "starter": "What’s a belief or value you’ve genuinely changed your mind about over the years? [web:44]"
+        },
+        {
+          "starter": "When you think about your happiest relationships—friends, family, anyone—what do they all have in common? [web:49]"
+        },
+        {
+          "starter": "Is there a small “old-school” thing you secretly find romantic, like handwritten notes or phone calls? [web:41]"
+        },
+        {
+          "starter": "What’s your favorite way to get out of a rut when every day starts feeling the same? [web:50]"
+        },
+        {
+          "starter": "If you had an extra hour every day just for yourself, how would you use it? [web:48]"
+        },
+        {
+          "starter": "What’s one thing you’re proud you no longer tolerate in dating? [web:44]"
+        },
+        {
+          "starter": "When you meet someone new, what makes you feel instantly more relaxed around them? [web:43]"
+        },
+        {
+          "starter": "Is there a place in your city that feels like your personal “main character” spot? [web:35]"
+        },
+        {
+          "starter": "What’s a compliment you genuinely love giving to other people? [web:49]"
+        },
+        {
+          "starter": "If you could host a themed dinner party, what would the theme and dress code be? [web:31]"
+        },
+        {
+          "starter": "What’s a quality you’ve worked hard to build in yourself that you’re proud of? [web:44]"
+        },
+        {
+          "starter": "Do you have a favorite memory from a past relationship, even if it didn’t last? [web:30]"
+        },
+        {
+          "starter": "What’s something you’re currently learning about yourself in this season of your life? [web:44]"
+        },
+        {
+          "starter": "If you could choose any fictional world to spend a week in, where are we going? [web:31]"
+        },
+        {
+          "starter": "What does a really good day look like for you from start to finish? [web:28]"
+        },
+        {
+          "starter": "Is there a small routine you’d love to share with a future partner one day? [web:47]"
+        },
+        {
+          "starter": "What’s a way you like to show affection that people might not realize at first? [web:47]"
+        },
+        {
+          "starter": "If someone wanted to impress you on a date without spending a lot, what should they do? [web:23]"
+        },
+        {
+          "starter": "What’s a chapter of your life that you’re really glad is over, and why? [web:44]"
+        },
+        {
+          "starter": "Are you more into planning detailed trips or showing up and seeing what happens? [web:50]"
+        },
+        {
+          "starter": "What’s a little tradition you’d love to start with someone you’re dating? [web:49]"
+        },
+        {
+          "starter": "When do you feel the most confident and in your element? [web:4]"
+        },
+        {
+          "starter": "If we were cooking together, what’s your go-to easy dish you’d want to make? [web:23]"
+        },
+        {
+          "starter": "What’s a random thing that instantly makes you feel nostalgic? [web:50]"
+        },
+        {
+          "starter": "Do you prefer deep talks late at night or long talks during a daytime walk? [web:31]"
+        },
+        {
+          "starter": "What’s something you’d tell your younger self about dating if you could? [web:44]"
+        },
+        {
+          "starter": "What kind of social settings do you actually enjoy—small groups, big parties, or one-on-one? [web:48]"
+        },
+        {
+          "starter": "Is there a life skill you think everyone should learn, no matter what? [web:28]"
+        },
+        {
+          "starter": "What’s a boundary you’ve set that made your life noticeably better? [web:49]"
+        },
+        {
+          "starter": "If we were to plan a spontaneous day trip, where would you love to go first? [web:23]"
+        },
+        {
+          "starter": "What’s a simple pleasure you never get tired of—like fresh sheets or sunset walks? [web:48]"
+        },
+        {
+          "starter": "When you imagine a healthy relationship, what does the day-to-day actually feel like? [web:44]"
+        },
+        {
+          "starter": "What’s a risk you want to take in the next year that feels exciting and a little scary? [web:44]"
+        },
+        {
+          "starter": "If you could hit “mute” on one type of dating behavior forever, what would it be? [web:12]"
+        },
+        {
+          "starter": "What’s something you wish people really understood about dating you? [web:47]"
+        },
+        {
+          "starter": "Do you keep photos or little souvenirs from special moments, or do you prefer memories in your head? [web:30]"
+        },
+        {
+          "starter": "What’s your ideal way to end a great date—nightcap, walk, deep talk, or early goodnight? [web:23]"
+        },
+        {
+          "starter": "Is there a passion or cause that means a lot to you right now? [web:28]"
+        },
+        {
+          "starter": "What kind of flirting actually works on you—playful teasing, thoughtful questions, or sweet messages? [web:41]"
+        },
+        {
+          "starter": "If you could design a phone-free Sunday morning with someone you like, what are you doing? [web:50]"
+        },
+        {
+          "starter": "What’s a song you’d put on a playlist called “falling for someone”? [web:31]"
+        },
+        {
+          "starter": "Is there a purchase you made that felt a bit extra but ended up being totally worth it? [web:31]"
+        },
+        {
+          "starter": "What do you think makes real chemistry feel different from just being friendly? [web:44]"
+        },
+        {
+          "starter": "If you had to teach a mini-class on something you know well, what would you teach? [web:28]"
+        },
+        {
+          "starter": "What’s a small way you like to make the people around you feel special? [web:49]"
+        },
+        {
+          "starter": "Are you more energized by trying new things or perfecting the routines you already love? [web:48]"
+        },
+        {
+          "starter": "If you could script the first ten minutes of a really good first date, what would happen? [web:23]"
+        },
+        {
+          "starter": "What’s something you’re working on healing or softening in yourself these days? [web:44]"
+        },
+        {
+          "starter": "Do you have a favorite quote or line that always hits you at the right time? [web:28]"
+        },
+        {
+          "starter": "If you could bring back one trend from your childhood or teen years, what would it be? [web:31]"
+        },
+        {
+          "starter": "What’s a memory you hope you never forget, no matter how old you get? [web:30]"
+        },
+        {
+          "starter": "When it comes to long-term relationships, what feels more important to you: shared interests or shared values? [web:44]"
+        },
+        {
+          "starter": "If you could plan a “no phones allowed” date, what would we do so we don’t even miss them? [web:50]"
+        },
+        {
+          "starter": "What kind of messages or calls from someone you like make you feel most secure and wanted? [web:47]"
+        },
+        {
+          "starter": "What’s something you want the next person you date to really understand about your heart? [web:44]"
+        },
+        {
+          "starter": "If you had to pick one word for the season of life you’re in right now, what would it be? [web:49]"
+        },
+        {
+          "starter": "What’s a simple routine you have that future you will probably thank you for? [web:48]"
+        },
+        {
+          "starter": "Is there a place you’ve visited that changed the way you see things, even a little bit? [web:23]"
+        },
+        {
+          "starter": "What’s something you’re quietly proud of that most people don’t notice right away? [web:4]"
+        },
+        {
+          "starter": "If you could choose one feeling to experience more often in your everyday life, what would it be? [web:44]"
+        },
+
+{
+          "starter": "What’s something you’ve accomplished that you don’t really give yourself enough credit for? [web:23]"
+        },
+        {
+          "starter": "When you think about this past year, what’s one decision you’re genuinely glad you made? [web:28]"
+        },
+        {
+          "starter": "What’s a tiny change in your routine that ended up making a big difference in how you feel day to day? [web:48]"
+        },
+        {
+          "starter": "If you could relive one trip you’ve taken, which one would you pick and what moment would you replay first? [web:23]"
+        },
+        {
+          "starter": "What’s a childhood hobby or interest you secretly miss and could see yourself getting back into? [web:30]"
+        },
+        {
+          "starter": "When you really need to lift your mood quickly, what’s your go-to move? [web:4]"
+        },
+        {
+          "starter": "If we could have amazing seats at any concert, which artist are we seeing and why them? [web:31]"
+        },
+        {
+          "starter": "On dating apps, what kind of opening line actually makes you want to reply? [web:8]"
+        },
+        {
+          "starter": "What’s a simple green flag you notice early that makes you think, “Okay, he might be different”? [web:44]"
+        },
+        {
+          "starter": "If you could design your ideal birthday from morning to night, what would the plan be? [web:48]"
+        },
+        {
+          "starter": "What’s something you’re quietly grateful for this week that you haven’t really mentioned to anyone? [web:48]"
+        },
+        {
+          "starter": "Do you have a comfort show or movie you always put on when you just need cozy background noise? [web:31]"
+        },
+        {
+          "starter": "What type of compliment actually lands for you and doesn’t just feel generic? [web:47]"
+        },
+        {
+          "starter": "If you could take a fun class with zero pressure about being good at it, what would you choose? [web:28]"
+        },
+        {
+          "starter": "What’s a small self-care habit that makes you feel more grounded when life gets hectic? [web:50]"
+        },
+        {
+          "starter": "When you really like someone, do you naturally lean more toward texting, calling, or voice notes? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing you did that made you stop and think, “Wow, I’ve actually grown a lot”? [web:44]"
+        },
+        {
+          "starter": "If you could have coffee with your future self, what would you be most curious to ask her about? [web:44]"
+        },
+        {
+          "starter": "What’s one quality you absolutely need in your close friends that you’d also want in a partner? [web:47]"
+        },
+        {
+          "starter": "Is there a weekly ritual you’d love to start—like a solo date or reset day—if you had a bit more time? [web:48]"
+        },
+        {
+          "starter": "When you’re out, what’s your usual go-to order—coffee style, cocktail, or mocktail of choice? [web:31]"
+        },
+        {
+          "starter": "If you could replay one day just to feel it again, not to change anything, which day would you choose? [web:30]"
+        },
+        {
+          "starter": "What’s a random fact or piece of trivia you love dropping into conversations? [web:50]"
+        },
+        {
+          "starter": "When you hear the word “home,” what place or feeling shows up in your mind first? [web:4]"
+        },
+        {
+          "starter": "What’s something you’re genuinely looking forward to in the next few months? [web:23]"
+        },
+        {
+          "starter": "In dating, do you tend to follow your head more, or your gut? [web:44]"
+        },
+        {
+          "starter": "If you could delete one annoying part of modern dating culture forever, what would you choose? [web:12]"
+        },
+        {
+          "starter": "What kind of first date setting usually makes you feel the most at ease—coffee, drinks, a walk, or an activity? [web:23]"
+        },
+        {
+          "starter": "Is there a fictional couple you think actually has a pretty healthy dynamic? [web:31]"
+        },
+        {
+          "starter": "What’s a small thing someone can do that instantly makes you feel cared for and seen? [web:47]"
+        },
+        {
+          "starter": "If you had to describe your overall vibe in three words, which ones fit best? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing that made you laugh way harder than you expected? [web:46]"
+        },
+        {
+          "starter": "Do you remember your first impression of your closest friend and what stood out to you? [web:33]"
+        },
+        {
+          "starter": "What’s a song you’d absolutely put on your ‘main character energy’ playlist? [web:31]"
+        },
+        {
+          "starter": "If you could wake up tomorrow with one new mindset already locked in, what would you want it to be? [web:44]"
+        },
+        {
+          "starter": "What’s something about your family or culture that you’re really proud of and love sharing? [web:47]"
+        },
+        {
+          "starter": "When it comes to plans, do you love surprises or do you feel better when you know what’s coming? [web:48]"
+        },
+        {
+          "starter": "What’s a travel experience you’d love to share with someone you’re really into? [web:23]"
+        },
+        {
+          "starter": "Besides looks, what’s the first thing you tend to notice about someone you’re attracted to? [web:44]"
+        },
+        {
+          "starter": "If you could design the perfect lazy day at home with someone, what would you two actually do? [web:50]"
+        },
+        {
+          "starter": "What’s a belief or opinion about love or relationships that you’ve genuinely changed over time? [web:44]"
+        },
+        {
+          "starter": "When you think about the happiest relationships in your life, what do they all seem to have in common? [web:49]"
+        },
+        {
+          "starter": "Is there a slightly old-school romantic gesture you secretly still find really sweet? [web:38]"
+        },
+        {
+          "starter": "When life starts to feel repetitive, what’s your favorite way to shake things up a bit? [web:50]"
+        },
+        {
+          "starter": "If you magically had an extra hour every day just for you, how would you spend it? [web:48]"
+        },
+        {
+          "starter": "What’s one thing you’re proud you no longer tolerate in dating or relationships? [web:44]"
+        },
+        {
+          "starter": "Around new people, what helps you relax and feel like yourself faster? [web:43]"
+        },
+        {
+          "starter": "Is there a spot in your city that makes you feel like the main character when you’re there? [web:21]"
+        },
+        {
+          "starter": "What’s a compliment you actually enjoy giving other people? [web:49]"
+        },
+        {
+          "starter": "If you hosted a themed dinner party, what would the theme and dress code be? [web:31]"
+        },
+        {
+          "starter": "What’s a personal quality you’ve worked hard to build that you’re really proud of now? [web:44]"
+        },
+        {
+          "starter": "Do you have a favorite memory from a past relationship that still makes you smile a bit? [web:30]"
+        },
+        {
+          "starter": "What’s something you’re learning about yourself in this current phase of your life? [web:44]"
+        },
+        {
+          "starter": "If you could spend a week inside any fictional world, where are we going? [web:31]"
+        },
+        {
+          "starter": "If you had a “perfect day” button, what would that day realistically look like for you? [web:28]"
+        },
+        {
+          "starter": "Is there a little daily routine you’d love to eventually share with a long-term partner? [web:47]"
+        },
+        {
+          "starter": "What’s a way you tend to show affection that people don’t always notice at first? [web:47]"
+        },
+        {
+          "starter": "If someone wanted to impress you on a date without spending much money, what should they do? [web:23]"
+        },
+        {
+          "starter": "What’s a chapter of your life you’re really glad you’ve outgrown, and what changed? [web:44]"
+        },
+        {
+          "starter": "When you travel, do you like detailed itineraries or do you prefer to just land and freestyle it? [web:1]"
+        },
+        {
+          "starter": "What’s a small tradition you’d love to start with someone you’re dating? [web:38]"
+        },
+        {
+          "starter": "In what situations do you feel the most confident and fully in your element? [web:4]"
+        },
+        {
+          "starter": "If we cooked together, what’s your go-to easy dish you’d want to make? [web:23]"
+        },
+        {
+          "starter": "What’s something random that always makes you feel a little nostalgic? [web:50]"
+        },
+        {
+          "starter": "Do you prefer deep late-night talks or long daytime conversations, like on a walk? [web:31]"
+        },
+        {
+          "starter": "If you could send one honest dating note back to your younger self, what would you tell her? [web:44]"
+        },
+        {
+          "starter": "When it comes to social stuff, do you feel best in one-on-one hangs, small groups, or bigger gatherings? [web:48]"
+        },
+        {
+          "starter": "What’s one life skill you think everyone should have, no matter what they do? [web:28]"
+        },
+        {
+          "starter": "What’s a boundary you set that really improved your life once you stuck to it? [web:49]"
+        },
+        {
+          "starter": "If we decided today to go on a spontaneous day trip, where would you want to head first? [web:23]"
+        },
+        {
+          "starter": "What’s a simple everyday pleasure you’ll never get tired of, no matter how often it happens? [web:48]"
+        },
+        {
+          "starter": "When you picture a healthy relationship for yourself, how do you want it to feel on a random Tuesday? [web:44]"
+        },
+        {
+          "starter": "What’s a risk you want to take in the next year that feels both scary and exciting? [web:44]"
+        },
+        {
+          "starter": "If you could mute one common dating behavior forever—ghosting, games, anything—what would you pick? [web:12]"
+        },
+        {
+          "starter": "What’s something you wish people understood about you when they first start dating you? [web:47]"
+        },
+        {
+          "starter": "Do you tend to save photos and little souvenirs from special moments, or keep most of it in your head? [web:30]"
+        },
+        {
+          "starter": "After a really great date, what’s your ideal way for the night to end? [web:23]"
+        },
+        {
+          "starter": "Is there a cause or topic that you feel especially passionate about right now? [web:28]"
+        },
+        {
+          "starter": "What kind of flirting actually lands for you—playful teasing, thoughtful questions, or sweet directness? [web:8]"
+        },
+        {
+          "starter": "If we had a phone-free Sunday morning together, what would you love to do so we don’t even miss our screens? [web:50]"
+        },
+        {
+          "starter": "What’s a song you’d absolutely add to a playlist called “slowly catching feelings”? [web:31]"
+        },
+        {
+          "starter": "Was there a purchase you made that felt a bit extra at the time but ended up being totally worth it? [web:31]"
+        },
+        {
+          "starter": "For you, what’s the difference between just vibing with someone and real romantic chemistry? [web:44]"
+        },
+        {
+          "starter": "If you had to teach a 20-minute mini-class on something you know well, what would you teach? [web:28]"
+        },
+        {
+          "starter": "What’s a small way you like to make the people you care about feel special? [web:49]"
+        },
+        {
+          "starter": "Do you feel more alive trying brand‑new things, or dialing in and perfecting routines you already love? [web:48]"
+        },
+        {
+          "starter": "If you could script the first ten minutes of your ideal first date, how would it play out? [web:23]"
+        },
+        {
+          "starter": "What’s something you’re gently working on healing or softening in yourself these days? [web:44]"
+        },
+        {
+          "starter": "Do you have a favorite quote or line that always seems to hit you at the right moment? [web:28]"
+        },
+        {
+          "starter": "If you could bring back one trend from your childhood or teen years just for fun, what would it be? [web:31]"
+        },
+        {
+          "starter": "What’s a memory you really hope you never forget, no matter how old you get? [web:30]"
+        },
+        {
+          "starter": "Thinking long term, do shared interests or shared values feel more important to you in a relationship? [web:44]"
+        },
+        {
+          "starter": "If we planned a no-phones-allowed date, what would we do so we’re just fully present together? [web:50]"
+        },
+        {
+          "starter": "What kind of messages or check‑ins from someone you like make you feel most secure? [web:47]"
+        },
+        {
+          "starter": "What’s something you really want the next person you date to understand about your heart? [web:44]"
+        },
+        {
+          "starter": "If you had to sum up this current season of your life in one word, what would you choose? [web:49]"
+        },
+        {
+          "starter": "What’s a simple habit you have now that you think future you will be really thankful for? [web:48]"
+        },
+        {
+          "starter": "Is there a place you’ve visited that quietly shifted your perspective, even just a little? [web:23]"
+        },
+        {
+          "starter": "What’s something you’re quietly proud of that doesn’t always show on the surface right away? [web:4]"
+        },
+        {
+          "starter": "If you could choose one feeling to experience more often in your everyday life, what would it be? [web:44]"
+        }
+      ]
+    }
+  }
+}
+continue after
+
+ {
+          "starter": "If you had the chance to redo one first impression you made, would you change anything?"
+        }
+
+and give me 100 starters with same format remember its for women and never repeat from previpuse starters
+
+json
+{
+  "ConversationStarters_DataBase": {
+    "General": {
+      "starters": [
+        {
+          "starter": "What’s something you’ve accomplished that you don’t really give yourself enough credit for? [web:59]"
+        },
+        {
+          "starter": "Looking back at this year, what’s one decision you’re genuinely happy you made? [web:48]"
+        },
+        {
+          "starter": "What’s a tiny change in your daily routine that’s actually made life feel better? [web:48]"
+        },
+        {
+          "starter": "If you could relive one trip you’ve taken, which one would you pick and what moment would you replay first? [web:30]"
+        },
+        {
+          "starter": "What’s a childhood hobby you secretly miss and could see yourself getting back into? [web:59]"
+        },
+        {
+          "starter": "When you really need to lift your mood quickly, what’s your go‑to move? [web:48]"
+        },
+        {
+          "starter": "If we could have great seats at any concert, which artist are we going to see and why? [web:31]"
+        },
+        {
+          "starter": "On dating apps, what kind of opening line actually makes you want to reply? [web:8]"
+        },
+        {
+          "starter": "What’s a simple green flag you notice early that makes you think a guy might be serious and emotionally healthy? [web:62]"
+        },
+        {
+          "starter": "If you could design your ideal birthday from morning to night, what would the plan look like? [web:48]"
+        },
+        {
+          "starter": "What’s something you’re quietly grateful for this week that you haven’t really mentioned to anyone? [web:48]"
+        },
+        {
+          "starter": "Do you have a comfort show or movie you always put on when you just want cozy background noise? [web:31]"
+        },
+        {
+          "starter": "What kind of compliment actually lands for you and doesn’t just feel generic? [web:47]"
+        },
+        {
+          "starter": "If you could take a fun, low‑pressure class on anything, what would you sign up for? [web:28]"
+        },
+        {
+          "starter": "What’s a small self‑care habit that helps you feel grounded when life gets hectic? [web:48]"
+        },
+        {
+          "starter": "When you really like someone, do you naturally lean more toward texting, calling, or voice notes? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing you did that made you think, “Wow, I’ve actually grown a lot”? [web:59]"
+        },
+        {
+          "starter": "If you could have coffee with your future self, what would you be most curious to ask her about? [web:59]"
+        },
+        {
+          "starter": "What’s one quality you absolutely need in your close friends that you’d also want in a partner? [web:47]"
+        },
+        {
+          "starter": "Is there a weekly ritual you’d love to start—like a solo date or reset day—if you had a bit more energy? [web:48]"
+        },
+        {
+          "starter": "When you’re out, what’s your usual go‑to drink order—coffee style, cocktail, or mocktail? [web:4]"
+        },
+        {
+          "starter": "If you could replay one day just to feel it again, not to change anything, which day would you choose? [web:30]"
+        },
+        {
+          "starter": "What’s a random fact or piece of trivia you secretly love dropping into conversations? [web:59]"
+        },
+        {
+          "starter": "When you hear the word “home,” what place or feeling shows up in your mind first? [web:59]"
+        },
+        {
+          "starter": "What’s something you’re genuinely looking forward to in the next few months? [web:48]"
+        },
+        {
+          "starter": "In dating, do you tend to follow your head more, or your gut? [web:44]"
+        },
+        {
+          "starter": "If you could delete one annoying part of modern dating culture forever, what would you pick? [web:61]"
+        },
+        {
+          "starter": "What kind of first date setting usually makes you feel the most at ease—coffee, drinks, a walk, or an activity? [web:23]"
+        },
+        {
+          "starter": "Is there a fictional couple you quietly think actually has a healthy, realistic dynamic? [web:31]"
+        },
+        {
+          "starter": "What’s a small thing someone can do that instantly makes you feel cared for? [web:38]"
+        },
+        {
+          "starter": "If you had to describe your overall vibe in three words, which ones fit best? [web:8]"
+        },
+        {
+          "starter": "What’s the last thing that made you laugh way harder than you expected? [web:46]"
+        },
+        {
+          "starter": "Do you remember your first impression of your closest friend and what stood out to you? [web:59]"
+        },
+        {
+          "starter": "What’s a song you’d absolutely put on your ‘main character energy’ playlist? [web:31]"
+        },
+        {
+          "starter": "If you could wake up tomorrow with one new mindset already locked in, what would you want it to be? [web:59]"
+        },
+        {
+          "starter": "What’s something about your family or culture that you’re really proud of and love sharing with people? [web:47]"
+        },
+        {
+          "starter": "When it comes to plans, do you love surprises or do you feel better when you know exactly what’s coming? [web:48]"
+        },
+        {
+          "starter": "What’s a travel experience you’d love to share with someone you’re really into? [web:23]"
+        },
+        {
+          "starter": "Besides looks, what’s the first thing you tend to notice about someone you’re attracted to? [web:58]"
+        },
+        {
+          "starter": "If you could design the perfect lazy day at home with someone, what would you two actually do? [web:3]"
+        },
+        {
+          "starter": "What’s a belief about love or relationships that you’ve genuinely changed over time? [web:59]"
+        },
+        {
+          "starter": "When you think about the happiest relationships in your life, what do they all seem to have in common? [web:48]"
+        },
+        {
+          "starter": "Is there a slightly old‑school romantic gesture you still secretly find really sweet? [web:52]"
+        },
+        {
+          "starter": "When life starts to feel repetitive, what’s your favorite way to shake things up a bit? [web:48]"
+        },
+        {
+          "starter": "If you magically had an extra hour every day just for you, how would you spend it? [web:48]"
+        },
+        {
+          "starter": "What’s one thing you’re proud you no longer tolerate in dating or relationships? [web:44]"
+        },
+        {
+          "starter": "Around new people, what helps you relax and feel like yourself faster? [web:61]"
+        },
+        {
+          "starter": "Is there a spot in your city that makes you feel like the main character when you’re there? [web:21]"
+        },
+        {
+          "starter": "What’s a compliment you actually enjoy giving other people? [web:55]"
+        },
+        {
+          "starter": "If you hosted a themed dinner party, what would the theme and dress code be? [web:22]"
+        },
+        {
+          "starter": "What’s a personal quality you’ve worked hard to build that you’re really proud of now? [web:59]"
+        },
+        {
+          "starter": "Do you have a favorite memory from a past relationship that still makes you smile a bit? [web:30]"
+        },
+        {
+          "starter": "What’s something you’re learning about yourself in this current phase of your life? [web:59]"
+        },
+        {
+          "starter": "If you could spend a week inside any fictional world, where are we going? [web:31]"
+        },
+        {
+          "starter": "If you had a “perfect day” button, what would that day realistically look like for you? [web:28]"
+        },
+        {
+          "starter": "Is there a little daily routine you’d love to eventually share with a long‑term partner? [web:47]"
+        },
+        {
+          "starter": "What’s a way you tend to show affection that people don’t always notice at first? [web:47]"
+        },
+        {
+          "starter": "If someone wanted to impress you on a date without spending much money, what should they do? [web:22]"
+        },
+        {
+          "starter": "What’s a chapter of your life you’re really glad you’ve outgrown, and what shifted? [web:59]"
+        },
+        {
+          "starter": "When you travel, do you like detailed itineraries or do you prefer to just land and freestyle it? [web:61]"
+        },
+        {
+          "starter": "What’s a small tradition you’d love to start with someone you’re dating? [web:38]"
+        },
+        {
+          "starter": "In what situations do you feel the most confident and fully in your element? [web:59]"
+        },
+        {
+          "starter": "If we cooked together, what’s your go‑to easy dish you’d want to make? [web:23]"
+        },
+        {
+          "starter": "What’s something random that always makes you feel a little nostalgic? [web:59]"
+        },
+        {
+          "starter": "Do you prefer deep late‑night talks or long daytime conversations, like on a walk? [web:31]"
+        },
+        {
+          "starter": "If you could send one honest dating note back to your younger self, what would you tell her? [web:59]"
+        },
+        {
+          "starter": "When it comes to social stuff, do you feel best in one‑on‑one hangs, small groups, or bigger gatherings? [web:48]"
+        },
+        {
+          "starter": "What’s one life skill you think everyone should have, no matter what they do? [web:59]"
+        },
+        {
+          "starter": "What’s a boundary you set that really improved your life once you stuck to it? [web:63]"
+        },
+        {
+          "starter": "If we decided today to go on a spontaneous day trip, where would you want to head first? [web:21]"
+        },
+        {
+          "starter": "What’s a simple everyday pleasure you’ll never get tired of, no matter how often it happens? [web:48]"
+        },
+        {
+          "starter": "When you picture a healthy relationship for yourself, how do you want it to feel on a random Tuesday? [web:1]"
+        },
+        {
+          "starter": "What’s a risk you want to take in the next year that feels both scary and exciting? [web:59]"
+        },
+        {
+          "starter": "If you could mute one common dating behavior forever—ghosting, games, anything—what would you pick? [web:61]"
+        },
+        {
+          "starter": "What’s something you wish people understood about you when they first start dating you? [web:63]"
+        },
+        {
+          "starter": "Do you tend to save photos and little souvenirs from special moments, or keep most of it in your head? [web:30]"
+        },
+        {
+          "starter": "After a really great date, what’s your ideal way for the night to end? [web:23]"
+        },
+        {
+          "starter": "Is there a cause or topic that you feel especially passionate about right now? [web:28]"
+        },
+        {
+          "starter": "What kind of flirting actually lands for you—playful teasing, thoughtful questions, or sweet directness? [web:8]"
+        },
+        {
+          "starter": "If we had a phone‑free Sunday morning together, what would you love to do so we don’t even miss our screens? [web:50]"
+        },
+        {
+          "starter": "What’s a song you’d absolutely add to a playlist called “slowly catching feelings”? [web:31]"
+        },
+        {
+          "starter": "Was there a purchase you made that felt a bit extra at the time but ended up being totally worth it? [web:31]"
+        },
+        {
+          "starter": "For you, what’s the difference between just vibing with someone and real romantic chemistry? [web:44]"
+        },
+        {
+          "starter": "If you had to teach a 20‑minute mini‑class on something you know well, what would you teach? [web:59]"
+        },
+        {
+          "starter": "What’s a small way you like to make the people you care about feel special? [web:48]"
+        },
+        {
+          "starter": "Do you feel more alive trying brand‑new things, or dialing in and perfecting routines you already love? [web:48]"
+        },
+        {
+          "starter": "If you could script the first ten minutes of your ideal first date, how would it play out? [web:22]"
+        },
+        {
+          "starter": "What’s something you’re gently working on healing or softening in yourself these days? [web:59]"
+        },
+        {
+          "starter": "Do you have a favorite quote or line that always seems to hit you at the right moment? [web:59]"
+        },
+        {
+          "starter": "If you could bring back one trend from your childhood or teen years just for fun, what would it be? [web:31]"
+        },
+        {
+          "starter": "What’s a memory you really hope you never forget, no matter how old you get? [web:30]"
+        },
+        {
+          "starter": "Thinking long term, do shared interests or shared values feel more important to you in a relationship? [web:1]"
+        },
+        {
+          "starter": "If we planned a no‑phones‑allowed date, what would we do so we’re just fully present together? [web:50]"
+        },
+        {
+          "starter": "What kind of messages or check‑ins from someone you like make you feel most secure? [web:63]"
+        },
+        {
+          "starter": "What’s something you really want the next person you date to understand about your heart? [web:44]"
+        },
+        {
+          "starter": "If you had to sum up this current season of your life in one word, what would you choose? [web:48]"
+        },
+        {
+          "starter": "What’s a simple habit you have now that you think future you will be really thankful for? [web:48]"
+        },
+        {
+          "starter": "Is there a place you’ve visited that quietly shifted your perspective, even just a little? [web:23]"
+        },
+        {
+          "starter": "What’s something you’re quietly proud of that doesn’t always show on the surface right away? [web:59]"
+        },
+        {
+          "starter": "If you could choose one feeling to experience more often in your everyday life, what would it be? [web:59]"
         }
       ]
     }
