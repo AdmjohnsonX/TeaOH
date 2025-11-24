@@ -1,1 +1,38 @@
-
+{
+"ConversationStarters_DataBase": {
+"General": {
+"starters": [
+{
+"starter": "Hey, your profile caught my eye — what’s one fun thing you’re looking forward to this week?"
+},
+{
+"starter": "You seem interesting, what’s something you’re really into that most people don’t expect?"
+},
+{
+"starter": "I’m curious, what does a pretty great weekend look like for you when you have zero obligations?"
+},
+{
+"starter": "Your photos give good vibes — what’s the story behind your favorite one?"
+},
+{
+"starter": "If we were grabbing a drink right now, what would you order and what should I try?"
+},
+{
+"starter": "You look like you have good taste — what’s a show, book, or podcast you’d actually recommend?"
+},
+{
+"starter": "Random question: what’s something small that can instantly improve your mood?"
+},
+{
+"starter": "If you could plan a low‑key first date, what would we be doing?"
+},
+{
+"starter": "You seem fun — what’s the most spontaneous thing you’ve done in the past year?"
+},
+{
+"starter": "What’s a place in your city you never get tired of and why do you like it so much?"
+}
+]
+}
+}
+}
