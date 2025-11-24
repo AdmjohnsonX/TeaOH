@@ -1,38 +1,188 @@
 {
-"ConversationStarters_DataBase": {
-"General": {
-"starters": [
-{
-"starter": "Hey, your profile caught my eye — what’s one fun thing you’re looking forward to this week?"
-},
-{
-"starter": "You seem interesting, what’s something you’re really into that most people don’t expect?"
-},
-{
-"starter": "I’m curious, what does a pretty great weekend look like for you when you have zero obligations?"
-},
-{
-"starter": "Your photos give good vibes — what’s the story behind your favorite one?"
-},
-{
-"starter": "If we were grabbing a drink right now, what would you order and what should I try?"
-},
-{
-"starter": "You look like you have good taste — what’s a show, book, or podcast you’d actually recommend?"
-},
-{
-"starter": "Random question: what’s something small that can instantly improve your mood?"
-},
-{
-"starter": "If you could plan a low‑key first date, what would we be doing?"
-},
-{
-"starter": "You seem fun — what’s the most spontaneous thing you’ve done in the past year?"
-},
-{
-"starter": "What’s a place in your city you never get tired of and why do you like it so much?"
-}
-]
-}
-}
+  "ConversationStarters_DataBase": {
+    "All Starters": {
+      "starters": [
+        {
+          "starter": "If you could have dinner with anyone, dead or alive, who would it be?"
+        },
+        {
+          "starter": "What's the most spontaneous thing you've ever done?"
+        },
+        {
+          "starter": "If you could instantly master any skill, what would it be?"
+        },
+        {
+          "starter": "What's your guilty pleasure TV show?"
+        },
+        {
+          "starter": "Coffee or tea? And how do you take it?"
+        },
+        {
+          "starter": "What's the best concert you've ever been to?"
+        },
+        {
+          "starter": "If you could travel anywhere tomorrow, where would you go?"
+        },
+        {
+          "starter": "What's your go-to karaoke song?"
+        },
+        {
+          "starter": "Are you a morning person or a night owl?"
+        },
+        {
+          "starter": "What's the most adventurous thing on your bucket list?"
+        },
+        {
+          "starter": "What do you do for fun when you're not working?"
+        },
+        {
+          "starter": "What's something you're passionate about?"
+        },
+        {
+          "starter": "Do you have any hidden talents?"
+        },
+        {
+          "starter": "What's your favorite way to spend a Sunday?"
+        },
+        {
+          "starter": "Are you close with your family?"
+        },
+        {
+          "starter": "What's the best advice you've ever received?"
+        },
+        {
+          "starter": "Do you prefer the beach or the mountains?"
+        },
+        {
+          "starter": "What's your favorite season and why?"
+        },
+        {
+          "starter": "What kind of music are you into?"
+        },
+        {
+          "starter": "What's something you've always wanted to learn?"
+        },
+        {
+          "starter": "What's something you're proud of accomplishing?"
+        },
+        {
+          "starter": "What does a perfect day look like for you?"
+        },
+        {
+          "starter": "What's the best decision you've ever made?"
+        },
+        {
+          "starter": "What motivates you to get up in the morning?"
+        },
+        {
+          "starter": "If you could change one thing about the world, what would it be?"
+        },
+        {
+          "starter": "What's the most important lesson life has taught you?"
+        },
+        {
+          "starter": "Who has had the biggest impact on your life?"
+        },
+        {
+          "starter": "What's something you believe that most people disagree with?"
+        },
+        {
+          "starter": "What are you most grateful for right now?"
+        },
+        {
+          "starter": "What does success mean to you?"
+        },
+        {
+          "starter": "Pineapple on pizza - yes or no?"
+        },
+        {
+          "starter": "What's your favorite meme right now?"
+        },
+        {
+          "starter": "If you could have any superpower, what would it be?"
+        },
+        {
+          "starter": "Dogs or cats?"
+        },
+        {
+          "starter": "What's the weirdest food combination you actually enjoy?"
+        },
+        {
+          "starter": "If you could be any fictional character, who would you be?"
+        },
+        {
+          "starter": "What's your most unpopular opinion?"
+        },
+        {
+          "starter": "Would you rather fight 100 duck-sized horses or 1 horse-sized duck?"
+        },
+        {
+          "starter": "What's the worst pickup line you've ever heard?"
+        },
+        {
+          "starter": "If you could only eat one food for the rest of your life, what would it be?"
+        },
+        {
+          "starter": "What's your idea of a perfect date?"
+        },
+        {
+          "starter": "Have you tried any new restaurants lately?"
+        },
+        {
+          "starter": "Are you into hiking or outdoor activities?"
+        },
+        {
+          "starter": "Do you enjoy cooking or trying new recipes?"
+        },
+        {
+          "starter": "What's your favorite type of cuisine?"
+        },
+        {
+          "starter": "Do you prefer staying in or going out on weekends?"
+        },
+        {
+          "starter": "Are you a wine person or more into craft beer?"
+        },
+        {
+          "starter": "Have you seen any good movies or shows recently?"
+        },
+        {
+          "starter": "Do you enjoy museums or art galleries?"
+        },
+        {
+          "starter": "What's the most fun date you've ever been on?"
+        },
+        {
+          "starter": "What do you love most about your job?"
+        },
+        {
+          "starter": "What's your dream career if money wasn't an issue?"
+        },
+        {
+          "starter": "Are you working on any exciting projects right now?"
+        },
+        {
+          "starter": "What's the biggest goal you're working toward?"
+        },
+        {
+          "starter": "How did you get into your field?"
+        },
+        {
+          "starter": "What's the best part about what you do?"
+        },
+        {
+          "starter": "Where do you see yourself in five years?"
+        },
+        {
+          "starter": "What's something you'd love to try professionally?"
+        },
+        {
+          "starter": "Do you have any side hustles or passion projects?"
+        },
+        {
+          "starter": "What would you do if you could take a year off?"
+        }
+      ]
+    }
+  }
 }
