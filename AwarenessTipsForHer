@@ -1,0 +1,11 @@
+{
+  "AwarenessTips_DataBase": {
+    "tips": [
+      { "tip": "Always meet in public places for first dates" },
+      { "tip": "Trust your instincts - if something feels off, it probably is" },
+      { "tip": "Share your location with a trusted friend when meeting someone new" },
+      { "tip": "Watch for love bombing - excessive attention early on can be a red flag" },
+      { "tip": "Notice if they respect your boundaries and the word 'no'" }
+    ]
+  }
+}
